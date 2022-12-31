@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bca7940e-7763-4122-9ff9-d88218a3f393": {
+      "ProjectGuid": "bca7940e-7763-4122-9ff9-d88218a3f393",
+      "DisplayName": "ChapterAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
